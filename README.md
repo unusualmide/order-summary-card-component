@@ -21,6 +21,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
+
 ![Active-State](./design/active-states.jpg)
 ![Desktop-Design](./design/desktop-design.jpg)
 ![Mobile-Design](./design/mobile-design.jpg)
